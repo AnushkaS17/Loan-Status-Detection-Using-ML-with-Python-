@@ -10,3 +10,4 @@ I used Naive bayes classifier model for this project
 ● Train the model to fit the data 
 ● Make predictions using the trained model 
 ● Create a test case and generate a predicted result from the system
+DATE CREATED: 18-12-2021
